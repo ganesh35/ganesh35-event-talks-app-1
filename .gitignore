@@ -1,0 +1,13 @@
+# Generated output file
+index.html
+
+# Gemini CLI specific directory
+.gemini/
+
+# Node.js modules
+node_modules/
+
+# Other potential temporary or environment files
+.env
+.DS_Store
+*.log
